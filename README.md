@@ -1,4 +1,4 @@
-# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
+# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY
 <h3>NAME:SIVAKUMAR.R</h3>
 <h3>REGISTER NO:212223230209</h3>
 <h3>EX. NO: 02</h3>
