@@ -35,7 +35,7 @@ Google Colab with NVCC Compiler
 12.	Reset the device: Reset the device using cudaDeviceReset to ensure that all resources are cleaned up before the program exits.
 
 ## PROGRAM:
-
+```
 **%%cuda
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -249,7 +249,7 @@ cudaDeviceReset();
 return (0);
 }
 
-
+```
 ## OUTPUT:
 ![Screenshot 2025-04-11 145711](https://github.com/user-attachments/assets/cd783675-b681-4052-a5a1-ed22ac4f6632)
 
