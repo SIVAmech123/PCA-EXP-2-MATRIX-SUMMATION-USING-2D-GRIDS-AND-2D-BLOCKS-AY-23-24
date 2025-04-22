@@ -1,8 +1,8 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>AIM:</h3>
-<h3>NAME:ANBU VINOTHA.S</h3>
-<h3>REGISTER NO:212223230015</h3>
+<h3>NAME:SIVAKUMAR.R</h3>
+<h3>REGISTER NO:212223230209</h3>
 <h3>EX. NO: 02</h3>
 <h3>DATE:15/04/25</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
